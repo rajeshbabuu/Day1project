@@ -1,0 +1,15 @@
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\bin\Debug\net6.0\bridgelabzsession2.exe
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\bin\Debug\net6.0\bridgelabzsession2.deps.json
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\bin\Debug\net6.0\bridgelabzsession2.runtimeconfig.json
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\bin\Debug\net6.0\bridgelabzsession2.dll
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\bin\Debug\net6.0\bridgelabzsession2.pdb
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\obj\Debug\net6.0\bridgelabzsession2.csproj.AssemblyReference.cache
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\obj\Debug\net6.0\bridgelabzsession2.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\obj\Debug\net6.0\bridgelabzsession2.AssemblyInfoInputs.cache
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\obj\Debug\net6.0\bridgelabzsession2.AssemblyInfo.cs
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\obj\Debug\net6.0\bridgelabzsession2.csproj.CoreCompileInputs.cache
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\obj\Debug\net6.0\bridgelabzsession2.dll
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\obj\Debug\net6.0\refint\bridgelabzsession2.dll
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\obj\Debug\net6.0\bridgelabzsession2.pdb
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\obj\Debug\net6.0\bridgelabzsession2.genruntimeconfig.cache
+D:\bridgelabz\bridgelabzsession2\bridgelabzsession2\obj\Debug\net6.0\ref\bridgelabzsession2.dll
